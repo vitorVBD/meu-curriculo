@@ -1,0 +1,155 @@
+{
+    "name": "Vitor Bittencourt",
+    "photo": "https://avatars.githubusercontent.com/u/175070282?s=400&u=f8224826c938c4de5e4602d07c9eeeb149e36741&v=4",
+    "job": "Fullstack Developer & Data Analyst",
+    "location": "Três Rios, Rio de Janeiro, Brasil",
+    "phone": "(24) 99216-1353",
+    "email": "vitor_bittencourt1998@hotmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Java",
+          "logo": "assets/img/icons/java.svg"
+        },
+        {
+          "name": "Python",
+          "logo": "assets/img/icons/python.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "assets/img/icons/javascript.svg"
+        },
+        {
+          "name": "HTML",
+          "logo": "assets/img/icons/html.svg"
+        },
+        {
+          "name": "CSS",
+          "logo": "assets/img/icons/css.svg"
+        },
+        {
+          "name": "Angular",
+          "logo": "assets/img/icons/angular.svg"
+        },
+        {
+            "name": "AWS",
+            "logo": "assets/img/icons/aws.svg"
+        },
+        {
+            "name": "Kotlin",
+            "logo": "assets/img/icons/kotlin.svg"
+        },
+        {
+            "name": "Node",
+            "logo": "assets/img/icons/node.svg"
+        },
+        {
+            "name": "Azure",
+            "logo": "assets/img/icons/azure.svg"
+        },
+        {
+            "name": "Cloud Computing",
+            "logo": "https://img.icons8.com/?size=100&id=885pfzzsF0db&format=png&color=FFFFFF"
+        },
+        {
+            "name": "CyberSecurity",
+            "logo": "https://img.icons8.com/?size=100&id=myGamu6HxdTS&format=png&color=FFFFFF"
+        },
+        {
+            "name": "SQL",
+            "logo": "https://img.icons8.com/?size=100&id=bkvySlFV9zbe&format=png&color=FFFFFF"
+        },
+        {
+            "name": "Ferramentas IA",
+            "logo": "https://img.icons8.com/?size=100&id=mMRbPhzZr0zK&format=png&color=FFFFFF"
+        },
+        {
+            "name": "Git",
+            "logo": "assets/img/icons/githubwhite.svg"
+        },
+        {
+            "name": "Power BI",
+            "logo": "https://img.icons8.com/?size=100&id=XZfQhFwZm1qP&format=png&color=FFFFFF"
+        },
+        {
+            "name": "Excel",
+            "logo": "https://img.icons8.com/?size=100&id=11594&format=png&color=FFFFFF"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Facilidade na aprendizagem de novas tecnologias",
+        "Alta adaptabilidade",
+        "Facilidade com tarefas práticas",
+        "Comprometimento com resultados e busca pela excelência",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (Fluente)",
+      "Espanhol (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Minha Pokédex consumindo a PokéAPI",
+        "url": "https://github.com/vitorVBD/Pokedex",
+        "github": true
+      },
+      {
+        "name": "Personal trainer IA, criado com Engenharia de Prompts",
+        "url": "https://github.com/vitorVBD/personal-trainer-IA",
+        "github": true
+      },
+      {
+        "name": "Site explicando o Personal IA",
+        "url": "https://github.com/vitorVBD/site-personalIA",
+        "github": true
+      },
+      {
+        "name": "Site criado para buscar ferramentas de IA de acordo com a sua necessidade",
+        "url": "https://github.com/vitorVBD/buscador-de-IA-imersao-Alura",
+        "github": true
+      },
+      {
+        "name": "Assistente para um jantar usando AWS Step Functions",
+        "url": "https://github.com/vitorVBD/assistente-de-jantar-AWS-StepFunctions",
+        "github": true
+      },
+      {
+        "name": "Anotações, desafios e projetos usando Java",
+        "url": "https://github.com/vitorVBD/trilha-dio-java",
+        "github": true
+      }
+    ],
+    "education": [
+      {
+        "name": "Universidade Federal Fluminense - Graduação em Engenharia Mecânica",
+        "period": "2016 - 2023",
+        "description": "Minha primeira formação, onde descobri o mundo da tecnologia e decidi que seria esse caminho que trilharia."
+      },
+      {
+        "name": "Universidade Federal Fluminense(EAD) - Sistemas de Computação",
+        "period": "2024 - até o momento",
+        "description": "O começo da minha migração de área."
+      },
+      {
+        "name": "Centro Universitário União das Américas Descomplica(EAD) - Análise e Desenvolvimento de Sistemas",
+        "period": "2024 - até o momento",
+        "description": "Me aprofundando mais ainda no mundo da tecnologia e diversificando o conhecimento."
+      },
+      {
+        "name": "Cambridge University - First Certificate in English (FCE)",
+        "period": "2014 - 2015",
+        "description": "Assim que terminei o curso de inglês pela Cultura Inglesa, decidi fazer o exame FCE de Cambridge e conquistei minha primeira certificação numa língua estrangeira."
+      },
+      {
+        "name": "DIO.me",
+        "period": "2024 - até o momento",
+        "description": "Plataforma onde faço cursos das mais diversas tecnologias e aprendo de tudo na área."
+      }
+      
+    ]
+  }
