@@ -15,7 +15,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('assets/img/icons/header.svg');
+    background-image: url('/assets/img/icons/header.svg');
 }
 
 .cabecalho .foto {
@@ -64,19 +64,19 @@
 }
 
 .informacoes .pessoa::before {
-    background-image: url('assets/img/icons/pessoa.svg');
+    background-image: url('/assets/img/icons/pessoa.svg');
 }
 
 .informacoes .local::before {
-    background-image: url('assets/img/icons/local.svg');
+    background-image: url('/assets/img/icons/local.svg');
 }
 
 .informacoes .whatsapp::before {
-    background-image: url('assets/img/icons/whatsapp.svg');
+    background-image: url('/assets/img/icons/whatsapp.svg');
 }
 
 .informacoes .email::before {
-    background-image: url('assets/img/icons/email.svg');
+    background-image: url('/assets/img/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px) {
